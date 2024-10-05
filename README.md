@@ -1,5 +1,5 @@
 
-# Leetcode Notifier
+# Ezleetcode Bot
 
 A discord bot which helps you in your leetcode journey.
 Built using NodeJs and DiscordJs.
