@@ -6,9 +6,10 @@ Built using NodeJs and DiscordJs.
 
 ## Bot in action
 
-![App Screenshot](assets/image 1.png)
+![App Screenshot](assets/image%201.png)
 
-![App Screenshot](assets/image 2.png)
+![App Screenshot](assets/image%202.png)
+
 
 ## Commands
 
